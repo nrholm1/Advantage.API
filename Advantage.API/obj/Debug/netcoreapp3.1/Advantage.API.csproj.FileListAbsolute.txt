@@ -1,0 +1,10 @@
+C:\Users\Niels Raunkjær Holm\source\repos\Advantage.API\Advantage.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Niels Raunkjær Holm\source\repos\Advantage.API\Advantage.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Niels Raunkjær Holm\source\repos\Advantage.API\Advantage.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Niels Raunkjær Holm\source\repos\Advantage.API\Advantage.API\bin\Debug\netcoreapp3.1\Advantage.API.exe
+C:\Users\Niels Raunkjær Holm\source\repos\Advantage.API\Advantage.API\obj\Debug\netcoreapp3.1\Advantage.API.csprojAssemblyReference.cache
+C:\Users\Niels Raunkjær Holm\source\repos\Advantage.API\Advantage.API\obj\Debug\netcoreapp3.1\Advantage.API.AssemblyInfoInputs.cache
+C:\Users\Niels Raunkjær Holm\source\repos\Advantage.API\Advantage.API\obj\Debug\netcoreapp3.1\Advantage.API.AssemblyInfo.cs
+C:\Users\Niels Raunkjær Holm\source\repos\Advantage.API\Advantage.API\obj\Debug\netcoreapp3.1\Advantage.API.RazorTargetAssemblyInfo.cache
+C:\Users\Niels Raunkjær Holm\source\repos\Advantage.API\Advantage.API\obj\Debug\netcoreapp3.1\staticwebassets\Advantage.API.StaticWebAssets.Manifest.cache
+C:\Users\Niels Raunkjær Holm\source\repos\Advantage.API\Advantage.API\obj\Debug\netcoreapp3.1\staticwebassets\Advantage.API.StaticWebAssets.xml
