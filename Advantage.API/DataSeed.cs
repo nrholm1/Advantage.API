@@ -108,7 +108,7 @@ namespace Advantage.API
                 orders.Add(new Order
                 {
                     Id = i,
-                    Customer = customers.First(c => c.Id == randCustomerId),
+                    Customer = Helpers.GetRandomCustomer(_ctx),
                     OrderTotal = Helpers.GetRandomOrderTotal(),
                     Placed = placed,
                     Completed = completed

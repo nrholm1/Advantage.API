@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Advantage.API.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -71,6 +72,12 @@ namespace Advantage.API
             }
 
             return orderPlaced.AddDays(_rand.Next(7, 14));
+        }
+
+        internal static Customer GetRandomCustomer(ApiContext ctx)
+        {
+            var randomId = _rand.Next(1, ctx.Customers.Count());
+            return ctx.Customers.First(c => c.Id == randomId);
         }
 
 
